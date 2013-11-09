@@ -7,4 +7,4 @@ List of tools:
 --------------
 
 * tools_on_iterable
- * flatten - this tool can transform any deep object as a list.
+ * flatten - this tool can transform any deep object as a list. (python)
