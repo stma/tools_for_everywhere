@@ -6,5 +6,5 @@ This repo is a collection of tools.
 List of tools:
 --------------
 
-* tools_on_iterable
- * flatten - this tool can transform any deep object as a list. (python)
+* tools_on_iterable (python)
+ * flatten - this tool can transform any deep object as a list.
